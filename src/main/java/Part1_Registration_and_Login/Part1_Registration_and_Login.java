@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.poe_part3;
+package Part1_Registration_and_Login;
 import java.util.List;
 import java.util.Scanner;
 import javax.annotation.processing.SupportedSourceVersion;
@@ -12,13 +12,8 @@ import javax.swing.JOptionPane;
  *
  * @author sibus
  */
-@SupportedSourceVersion(SourceVersion.RELEASE_26)
 public class Part1_Registration_and_Login {
-    
-}
 
-
-public class Part1_Registration_and_Login {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
